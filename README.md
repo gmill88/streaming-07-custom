@@ -4,7 +4,7 @@
 ### Date: 06/10/2024
 
 ## Project Goal
-The goal of this project is to create a producer that sorts player stats based on what league they play in, and sends player stats to a corresponding queue. 
+The goal of this project is to create a producer that sorts player stats based on what league they play in, and sends player stats to a corresponding queue for that league. The consumers for each league will process the player statistics received from the corresponding queue, and issue an alert when a player meets certain statistical thresholds. The chosen stats are average, home runs, and runs batted in. The threshold set for batting average is .280, home runs is 10, and runs batted in is 30. These statistical thresholds were chosen to identify players that have exceeded in 3 of the more important offensive statistics. The players identified by the alerts are the players that have had the best offensive output so far in 2024. 
 
 ### Requirements
 - RabbitMQ Server Running
