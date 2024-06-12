@@ -277,3 +277,5 @@
 2024-06-10 19:31:07,221.mlb_stat_consumer_nl.INFO Received from National League queue: Player: Chris Roller, avg: 0.0, hr: 0, rbi: 0
 2024-06-10 19:31:07,247.mlb_stat_consumer_nl.INFO Received from National League queue: Player: Luis Vazquez, avg: 0.0, hr: 0, rbi: 0
 2024-06-10 19:31:07,292.mlb_stat_consumer_nl.INFO Received from National League queue: Player: Forrest Wall, avg: 0.0, hr: 0, rbi: 0
+2024-06-10 21:23:13,810.mlb_stat_consumer_nl.INFO User interrupted continuous listening process.
+2024-06-10 21:23:13,814.mlb_stat_consumer_nl.INFO Closing connection. Goodbye.

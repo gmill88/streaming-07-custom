@@ -288,3 +288,5 @@
 2024-06-10 19:31:07,264.mlb_stat_consumer_al.INFO Received from American League queue: Player: David Banuelos, avg: 0.0, hr: 0, rbi: 0
 2024-06-10 19:31:07,277.mlb_stat_consumer_al.INFO Received from American League queue: Player: Taylor Trammell, avg: 1.0, hr: 0, rbi: 0
 2024-06-10 19:31:07,307.mlb_stat_consumer_al.INFO Received from American League queue: Player: Tyler Heineman, avg: 0.0, hr: 0, rbi: 0
+2024-06-10 21:23:16,117.mlb_stat_consumer_al.INFO User interrupted continuous listening process.
+2024-06-10 21:23:16,119.mlb_stat_consumer_al.INFO Closing connection. Goodbye.

@@ -4,7 +4,7 @@
 ### Date: 06/10/2024
 
 ## Project Goal
-The objective of this project is to develop a producer that categorizes Major League Baseball (MLB) player statistics based on the league they play in and distributes the statistics to corresponding queues for further processing. This involves a producer that sorts player stats into either the National or American League and sends these stats to the appropriate queue. Each league has its own consumer that processes the player statistics from the queue and triggers an alert when a player meets 3 specific performance thresholds.
+The objective of this project is to develop a producer that sorts Major League Baseball (MLB) player statistics based on the league they play in and sneds the statistics to corresponding queues for further processing. This involves a producer that sorts player stats into either the National or American League based on the league the player is in and sends these stats to the appropriate queue. Each league has its own consumer that processes the player statistics from the queue and triggers an alert when a player meets 3 specific performance thresholds.
 
 The key offensive statistics being monitored are batting average, home runs, and runs batted in (RBIs). The thresholds for these statistics are set as follows:
 
